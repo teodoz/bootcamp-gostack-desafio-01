@@ -1,0 +1,17 @@
+{
+  "name": "bootcamp-gostack-desafio-01",
+  "version": "1.0.0",
+  "description": "Primeiro desafio do Bootcamp GoStack",
+  "main": "index.js",
+  "author": "Saulo Teodoz",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
